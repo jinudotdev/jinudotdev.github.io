@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brush Hero Dev Log
+title: Home
 ---
 
 Welcome to my dev log. I’m building modular grip detection and overlay systems for Brush Hero.
