@@ -4,7 +4,11 @@ title: "Grip Detection Update: Curl Logic in Action"
 date: 2025-08-20
 ---
 
-Today I refactored the grip detection logic to focus on **finger curl** instead of thumb-index proximity. This change dramatically improves detection for rotated wrists and non-standard grips.
+If mediapipe is a construction company, 
+
+I was able to call a specialist called solutions.hands out to detect all the important parts out of the hand for me. all the important points like joints are called landmarks
+
+I also got another specialist called solutions.drawing_utils to draw lines in between
 
 <div style="text-align: center;">
   <img src="/assets/images/2025-08-21.png" alt="Hand Track" width="400">
@@ -15,7 +19,3 @@ Today I refactored the grip detection logic to focus on **finger curl** instead 
 ### 🔍 What’s Working
 - Curl-based detection is more robust across hand postures
 - Overlay rendering is centralized and extensible
-
-### 🧠 Next Steps
-- Add transition logging for grip state changes
-- Refactor naming for semantic clarity
