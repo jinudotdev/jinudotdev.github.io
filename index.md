@@ -6,10 +6,10 @@ title: Home
   <img src="/assets/images/intro_photo.png" alt="Intro Photo" width="400">
   <p><em>I'm Jinu-coffee roaster by profession. </em></p>
 </div>
-I've taken up a hobby as a developer, architecting tools that see, respond, and adapt. This site is my dev log: a place to document experiments, debug logic, and share architectural pivots as I build systems that go beyond the screen.
 
-Whether it's grip detection for BrushHero, overlay managers for real-time vision, or ergonomic workflows across platforms, I’m chasing clarity, modularity, and maintainability. I believe good code should teach, adapt, and leave room for the next idea.
+I roast coffee by day and build oddly specific software by night. This site is where I log my dev experiments—grip detection, overlay managers, ergonomic workflows, and whatever else I end up chasing.
 
-This space will grow with me. Expect sketches, refactors, and reflections—not just polished outcomes.
+I’m here to learn out loud, reflect when things break, and share the process in case it helps someone else.
 
-Thanks for stopping by.
+BrushHero is the current obsession, but it won’t be the last. Stick around if you like modular code, semantic naming debates, and watching someone wrestle with real-time pipelines in public.
+
