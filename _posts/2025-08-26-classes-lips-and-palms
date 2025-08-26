@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Reorganizing to introduce classes into code, highlighting palms and lips"
+date: 2025-08-20
+---
+
+I reorganized the code to bring in classes.
+
+I will use lips and palms to track whether the user is brushing their teeth or not
+
+<div style="text-align: center;">
+  <img src="/assets/images/2025-08-26.png" alt="Lips and Palm" width="400">
+  <p><em>This is Brush Hero in action</em></p>
+</div>
+
+I come from a java background so I'm still trying to get a hang of python
