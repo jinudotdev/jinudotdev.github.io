@@ -7,7 +7,7 @@ I have not been able to post any progress to this project, but here's the end re
 
 <div style="text-align: center;">
   <img src="/assets/images/2025-12-23 Roastmaster GUI.png" alt="Roastmaster" width="400">
-  <p><em>This is Brush Hero in action</em></p>
+  <p><em>This is the Roastmaster GUI</em></p>
 </div>
 
 RoastMaster is a coffee roasting tool built for an industrial Probat/Burns 540 lb roaster that works in a specific way.
