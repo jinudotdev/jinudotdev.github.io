@@ -14,7 +14,7 @@ RoastMaster is a coffee roasting tool built for an industrial Probat/Burns 540 l
 
 Unlike many roasters where the operator controls gas throughout the roast or automatically follows a continuous curve, this machine follows nine fixed stages. At each stage, you enter a target bean temperature and a fuel percentage, but you don’t control how long the roaster takes to get there. Time is affected by room temperature, humidity, bean condition, and other variables that change day to day.
 
-Consistency matters, and relying only on experience makes it hard to account for all of those factors every time. RoastMaster was written to see if logged roast data and simple machine learning models could help make better estimates and improve repeatability.
+Consistency matters, and relying only on experience makes it hard to account for all of those factors every time. RoastMaster was written to see if logged roast data and simple machine learning models could help make better estimates and improve repeatability. It uses a CatBoost model because it can learn effectively even when some categorical data is missing.
 
 RoastMaster includes two models with different goals.
 
