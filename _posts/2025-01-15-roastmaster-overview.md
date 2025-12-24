@@ -2,7 +2,9 @@
 layout: post
 title: "RoastMaster Overview"
 date: 2025-01-15
+tags: [machine-learning, coffee, roasting, catboost, projects, work]
 ---
+
 
 Here is a project that has been very useful for my work.
 
