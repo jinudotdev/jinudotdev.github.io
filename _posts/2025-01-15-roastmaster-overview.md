@@ -40,3 +40,18 @@ The long‑term goal for Core is to move away from fixed targets and instead roa
 ---
 
 [View the RoastMaster code on GitHub →](https://github.com/jinudotdev/Roastmaster)
+
+## How to Run RoastMaster
+
+1) Install Python 3.10+ (Windows)
+2) Clone the repository and open a terminal in the project folder
+3) Create and activate a virtual environment:
+   python -m venv venv
+   venv\Scripts\activate
+4) Install dependencies:
+   pip install -r requirements.txt
+5) Run the GUI:
+   python gui.py
+
+   (or run the CLI instead:)
+   python main.py
